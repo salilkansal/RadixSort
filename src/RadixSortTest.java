@@ -6,7 +6,7 @@ import java.util.List;
 public class RadixSortTest {
     public static void main(String[] args) {
 
-        int[] array = {1245,4346, 9675, 529, 2456, 8760, 3345, 1346, 8764, 1247, 4564, 2367, 7457, 2364, 8554, 3267};
+        int[] array = {1245, 4346, 9675, 529, 2456, 8760, 3345, 1346, 8764, 1247, 4564, 2367, 7457, 2364, 8554, 3267};
         System.out.println("Original List");
         for (int cuurNum : array) {
             System.out.print(cuurNum + " ");
